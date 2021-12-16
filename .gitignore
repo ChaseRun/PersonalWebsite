@@ -1,0 +1,4 @@
+env/
+doc/
+pycache/
+/__pycache__
